@@ -83,7 +83,7 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="Unit1.pas">
+        <DCCReference Include="..\Leitor de CSV\Leitor-de-CSV-Delphi\Unit1.pas">
             <Form>Form1</Form>
             <FormType>dfm</FormType>
         </DCCReference>
