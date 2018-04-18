@@ -2,8 +2,8 @@ object Form1: TForm1
   Left = 0
   Top = 0
   Caption = 'Form1'
-  ClientHeight = 277
-  ClientWidth = 545
+  ClientHeight = 260
+  ClientWidth = 635
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -39,8 +39,8 @@ object Form1: TForm1
   end
   object DBGrid1: TDBGrid
     Left = 0
-    Top = 56
-    Width = 545
+    Top = 39
+    Width = 635
     Height = 221
     Align = alBottom
     DataSource = DataSource1
@@ -88,8 +88,8 @@ object Form1: TForm1
       end>
   end
   object OpenDialog1: TOpenDialog
-    Left = 496
-    Top = 280
+    Left = 592
+    Top = 39
   end
   object ClientDataSet1: TClientDataSet
     PersistDataPacket.Data = {
@@ -103,8 +103,8 @@ object Form1: TForm1
     Active = True
     Aggregates = <>
     Params = <>
-    Left = 376
-    Top = 304
+    Left = 536
+    Top = 39
     object ClientDataSet1id: TStringField
       FieldName = 'id'
       Size = 10
@@ -132,7 +132,7 @@ object Form1: TForm1
   end
   object DataSource1: TDataSource
     DataSet = ClientDataSet1
-    Left = 264
-    Top = 312
+    Left = 480
+    Top = 39
   end
 end

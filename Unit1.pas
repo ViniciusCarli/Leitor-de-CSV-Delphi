@@ -9,11 +9,11 @@ uses
 
 type
   TForm1 = class(TForm)
+    SpeedButton1: TSpeedButton;
     EdtArquivoOriginal: TEdit;
     btnLerArquivo: TBitBtn;
-    SpeedButton1: TSpeedButton;
-    OpenDialog1: TOpenDialog;
     DBGrid1: TDBGrid;
+    OpenDialog1: TOpenDialog;
     ClientDataSet1: TClientDataSet;
     ClientDataSet1id: TStringField;
     ClientDataSet1first_name: TStringField;
@@ -87,5 +87,7 @@ procedure TForm1.Split(DelimiterText: string; Delimiter: Char;
 begin
   ListOfStrings.DelimitedText := DelimiterText;
 end;
+
+
 
 end.
