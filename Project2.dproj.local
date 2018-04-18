@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/16 16:40:50.000.698,=C:\Users\Vinicius Bustamanti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/18 11:13:56.829,=C:\Users\Vinicius Bustamanti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/18 13:20:03.352,C:\Users\Vinicius Bustamanti\Desktop\CSV READER\Unit1.pas=C:\Users\Vinicius Bustamanti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/18 13:20:03.352,C:\Users\Vinicius Bustamanti\Desktop\CSV READER\Unit1.dfm=C:\Users\Vinicius Bustamanti\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/04/18 13:20:04.404,C:\Users\Vinicius Bustamanti\Desktop\CSV READER\Project2.dproj=C:\Users\Vinicius Bustamanti\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
